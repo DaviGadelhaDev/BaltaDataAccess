@@ -1,0 +1,4 @@
+Comando para instalar um pacote:
+    dotnet add package NomedoPacote
+Comando para instalar um pacote com versão específica:
+    dotnet add package NomedoPacote --version 5.2.0
