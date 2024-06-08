@@ -53,3 +53,4 @@ C:\dev\BaltaDataAccess\obj\Debug\net8.0\BaltaDataAccess.pdb
 C:\dev\BaltaDataAccess\obj\Debug\net8.0\BaltaDataAccess.genruntimeconfig.cache
 C:\dev\BaltaDataAccess\obj\Debug\net8.0\ref\BaltaDataAccess.dll
 C:\dev\BaltaDataAccess\bin\Debug\net8.0\Dapper.dll
+C:\dev\BaltaDataAccess\obj\Debug\net8.0\BaltaDataAccess.sourcelink.json
